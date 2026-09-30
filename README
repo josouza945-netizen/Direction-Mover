@@ -1,0 +1,48 @@
+Sistema de Direcionamento e Atendimento de Chamados
+
+Integrantes
+
+- João Guilherme — @josouza945-netizen
+- Kauan Miguel — @kauansega
+- Gabriel Rossi - @Gabriel-rossi1
+
+Problema selecionado
+
+Os funcionários da área Mills e do Service Desk enfrentam dificuldades no direcionamento e atendimento de chamados, especialmente quando as solicitações permanecem por muitas horas em atendimento, ultrapassando o limite de 6 horas e impactando o feedback do time. O processo atual também apresenta dificuldade para direcionar chamados e enviar mensagens de forma rápida. O problema está relacionado ao processo realizado na plataforma SYSAID utilizada pela empresa.
+
+Hipótese de valor
+
+Acreditamos que apoiar os funcionários da área Mills e do Service Desk no direcionamento e acompanhamento dos chamados permitirá agilizar o encaminhamento das solicitações e a comunicação relacionada aos atendimentos, reduzindo a ocorrência de chamados com tempo elevado de atendimento. Saberemos que há valor quando for possível observar uma redução no tempo necessário para direcionar e comunicar os chamados e uma melhora no acompanhamento dos atendimentos.
+
+Escopo da Semana 01
+
+Descoberta, enquadramento, viabilidade inicial, ética, riscos e repositório.
+
+A E01 contempla a investigação do problema, comparação dos candidatos, definição do problema selecionado, identificação dos usuários e interessados, análise da jornada atual, hipótese de valor, inovação contextual, viabilidade técnica, estratégia inicial para AWS, ética, privacidade e riscos.
+
+Documentação
+
+- Entrega E01: "docs/semana-01/"
+- Evidências E01: "docs/evidencias/semana-01/README.md"
+- Canvas: "docs/semana-01/SEMANA-01_Modelo_Canvas_Descoberta_e_Enquadramento_do_Problema.docx"
+- PDF: "docs/semana-01/SEMANA-01_Modelo_Canvas_Descoberta_e_Enquadramento_do_Problema.pdf"
+
+Estado da E01
+
+- [x] Identificação da dupla
+- [x] Problema candidato A definido
+- [x] Problema candidato B definido
+- [ ] Evidências da pesquisa secundária
+- [ ] Registros da pesquisa primária
+- [ ] Matriz de seleção e decisão
+- [ ] Usuários e stakeholders
+- [ ] Jornada atual
+- [ ] Hipótese de valor e inovação
+- [ ] Viabilidade técnica e estratégia AWS
+- [ ] Ética, privacidade e riscos
+- [ ] Revisão final do Canvas
+- [ ] DOCX e PDF revisados
+- [ ] Repositório organizado
+- [ ] Pull Request revisada
+- [ ] Tag "semana-01"
+- [ ] Release da E01
